@@ -11,9 +11,10 @@ export default function About() {
             web-app.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Crafting Seamless Experiences: Empowering Users with Cutting-Edge Frontend Development Skills in the MERN Stack.
+            Empowering users with cutting-edge frontend development skills in the MERN stack, I specialize in crafting seamless experiences. Through my expertise, I create intuitive and engaging web applications that leave a lasting impression
+            With expertise in the MERN stack, I specialize in crafting seamless experiences that empower users. Through cutting-edge frontend development skills, I create web applications that are both intuitive and captivating.
+
           </p>
           <div className="flex justify-center">
             <a
@@ -32,7 +33,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded h-200 w-200"
             alt="avatar"
-            src="./ankitpic.png"
+            src="./pic.png"
           />
         </div>
       </div>

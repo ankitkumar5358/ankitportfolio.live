@@ -12,9 +12,10 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Built an e-commerce platform using React and Next.js, providing a seamless shopping experience with intuitive interfaces.
+            Developed a YouTube clone with HTML, CSS, JS, Material-UI, and React, delivering a visually appealing frontend similar to YouTube.
+            Experienced in WordPress development, creating a full-stack app like Amazon with custom plugins and SEO optimization.
+            Created a Restaurant App using React Hooks, Tailwind CSS, and Parcel Build, offering a modern UI and smooth performance.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
