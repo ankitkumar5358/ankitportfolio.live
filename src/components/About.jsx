@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import avatar from "../components/images/one.png"
 
 export default function About() {
   return (
@@ -33,7 +34,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded h-200 w-200"
             alt="avatar"
-            src="./pic.png"
+            src={avatar}
           />
         </div>
       </div>

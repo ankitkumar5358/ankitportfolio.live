@@ -39,14 +39,14 @@ export const testimonials = [
       "Working with [Ankit] as our frontend MERN developer has been a game-changer for our business. Their exceptional design sense and flawless implementation have taken our user experience to new heights. Our customers are delighted, and our conversions have soared!",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Gautam Sharma",
-    company: "Zoozle",
+    company: "Media.net",
   },
   {
     quote:
       "[Ankit]'s frontend wizardry in the MERN stack has exceeded our expectations. Their attention to detail and commitment to crafting pixel-perfect interfaces have left us in awe. Thanks to their expertise, our website not only looks stunning but also delivers an exceptional user experience. We can't recommend [Ankit] highly enough!",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Priyanshu Sharma",
-    company: "Dooble.io",
+    company: "Meta",
   },
 ];
 
